@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\source\\repos\\SOA_BT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C977F917-0A07-4082-B200-733BDD1D45D5}|SOA_BT1\\SOA_BT1.csproj|c:\\users\\gigabyte\\source\\repos\\soa_bt1\\soa_bt1\\serverref.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C977F917-0A07-4082-B200-733BDD1D45D5}|SOA_BT1\\SOA_BT1.csproj|solutionrelative:soa_bt1\\serverref.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C977F917-0A07-4082-B200-733BDD1D45D5}|SOA_BT1\\SOA_BT1.csproj|C:\\Users\\GIGABYTE\\source\\repos\\SOA_BT1\\soa_bt1\\mydbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C977F917-0A07-4082-B200-733BDD1D45D5}|SOA_BT1\\SOA_BT1.csproj|solutionrelative:soa_bt1\\mydbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\SOA_BT1\\SOA_BT1\\MyDbModel.edmx",
+              "RelativeDocumentMoniker": "SOA_BT1\\MyDbModel.edmx",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\SOA_BT1\\SOA_BT1\\MyDbModel.edmx [Diagram1]",
+              "RelativeToolTip": "SOA_BT1\\MyDbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-15T13:08:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerRef.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\SOA_BT1\\SOA_BT1\\ServerRef.asmx.cs",
+              "RelativeDocumentMoniker": "SOA_BT1\\ServerRef.asmx.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\SOA_BT1\\SOA_BT1\\ServerRef.asmx.cs",
+              "RelativeToolTip": "SOA_BT1\\ServerRef.asmx.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAuwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:00:39.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

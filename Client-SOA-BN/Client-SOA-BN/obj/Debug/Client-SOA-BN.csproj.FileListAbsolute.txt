@@ -1,0 +1,10 @@
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\bin\Debug\Client-SOA-BN.exe.config
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\bin\Debug\Client-SOA-BN.exe
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\bin\Debug\Client-SOA-BN.pdb
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client-SOA-BN.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client_SOA_BN.Form1.resources
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client_SOA_BN.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client-SOA-BN.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client-SOA-BN.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client-SOA-BN.exe
+C:\Users\GIGABYTE\source\repos\Client-SOA-BN\Client-SOA-BN\obj\Debug\Client-SOA-BN.pdb

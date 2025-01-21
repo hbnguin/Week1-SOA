@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C690B73F-E74E-4B32-84AE-525D2453156D}|Client-SOA-BN\\Client-SOA-BN.csproj|c:\\users\\gigabyte\\source\\repos\\client-soa-bn\\client-soa-bn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C690B73F-E74E-4B32-84AE-525D2453156D}|Client-SOA-BN\\Client-SOA-BN.csproj|solutionrelative:client-soa-bn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690B73F-E74E-4B32-84AE-525D2453156D}|Client-SOA-BN\\Client-SOA-BN.csproj|c:\\users\\gigabyte\\source\\repos\\client-soa-bn\\client-soa-bn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690B73F-E74E-4B32-84AE-525D2453156D}|Client-SOA-BN\\Client-SOA-BN.csproj|solutionrelative:client-soa-bn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690B73F-E74E-4B32-84AE-525D2453156D}|Client-SOA-BN\\Client-SOA-BN.csproj|c:\\users\\gigabyte\\source\\repos\\client-soa-bn\\client-soa-bn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690B73F-E74E-4B32-84AE-525D2453156D}|Client-SOA-BN\\Client-SOA-BN.csproj|solutionrelative:client-soa-bn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\Client-SOA-BN\\Form1.cs",
+              "RelativeDocumentMoniker": "Client-SOA-BN\\Form1.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\Client-SOA-BN\\Form1.cs",
+              "RelativeToolTip": "Client-SOA-BN\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAD4vxwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:18:56.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\Client-SOA-BN\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Client-SOA-BN\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\Client-SOA-BN\\Form1.Designer.cs",
+              "RelativeToolTip": "Client-SOA-BN\\Form1.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:17:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\Client-SOA-BN\\Form1.cs",
+              "RelativeDocumentMoniker": "Client-SOA-BN\\Form1.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\source\\repos\\Client-SOA-BN\\Client-SOA-BN\\Form1.cs [Design]",
+              "RelativeToolTip": "Client-SOA-BN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:17:32.228Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
